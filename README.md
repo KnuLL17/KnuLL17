@@ -1,4 +1,4 @@
-# 👋 Hi, I'm KnuLL , the God of Symbiotes
+# ☠️ I'm KnuLL , the God of Symbiotes
 🚀 Passionate Java Developer | 💻 Web Developer | 🧩 Problem Solver  
 
 🌱 Currently learning **Spring Boot** and **DSA**  
