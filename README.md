@@ -1,56 +1,36 @@
-# ☠️ I'm KnuLL , the God of Symbiotes
-🚀 Passionate Java Developer | 💻 Web Developer | 🧩 Problem Solver  
+# 👋 Hi, I'm a Software Engineer | CSE (AI & ML)
 
-🌱 Currently learning **Spring Boot** and **DSA**  
-🎯 Goals for 2025: Build 5 full-stack projects & contribute to open source  
-💬 Ask me about: Core Java, JDBC, PostgreSQL, and OOPs  
+```java
+public class DeveloperProfile {
 
----
+    private final String name = "Your Name";
+    private final String degree = "B.Tech in Computer Science (AI & ML)";
+    private final String focus = "Backend Development | Full Stack | Machine Learning";
 
-## 🛠️ Tech Stack
-**Languages:** Java, HTML, CSS, JavaScript  
-**Frameworks & Libraries:** Spring Boot, JDBC, Maven  
-**Database:** PostgreSQL, MySQL  
-**Tools:** Git, VS Code, IntelliJ IDEA, Postman  
+    private final String[] backendSkills = {
+        "Core Java", "Spring Boot", "JDBC", "REST APIs"
+    };
 
----
+    private final String[] databaseSkills = {
+        "SQL", "PostgreSQL"
+    };
 
-## 🚀 Projects
+    private final String[] frontendSkills = {
+        "HTML", "CSS", "JavaScript"
+    };
 
-### 🧑‍💼 [Candidate Management System](https://github.com/yourusername/Candidate-Management-System)
-**Tech Stack:** Java, JDBC, PostgreSQL, Maven  
-**Description:** A CRUD application that manages candidate data with full JDBC integration.  
-**Features:**
-- Add, update, delete, and view candidates
-- Uses a layered MVC structure
-- Database connectivity via utility class  
+    private final String[] aiMlSkills = {
+        "Python", "Machine Learning", "Data Analysis"
+    };
 
----
-
-### 🌐 [Personal Portfolio Website](https://github.com/yourusername/Portfolio)
-**Tech Stack:** HTML, CSS, JavaScript  
-**Description:** A responsive portfolio site showcasing my work and skills.  
-**Features:**
-- Smooth scroll and interactive animations  
-- Mobile-friendly layout  
-- Hosted via GitHub Pages  
-
----
-
-### 🎮 [Chess Game Logic](https://github.com/yourusername/Chess-Logic)
-**Tech Stack:** Java, OOP, Data Structures  
-**Description:** A terminal-based chess game with object-oriented logic and move validation.  
-
----
-
-## 📊 GitHub Stats
-![Ravi's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
-
----
-
-## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yourname@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=githubpages&logoColor=white)](https://yourportfolio.com)
+    public void summary() {
+        System.out.println("""
+        Engineer with a strong foundation in Java and backend systems,
+        experienced in building scalable applications using Spring Boot
+        and relational databases. Background in AI & ML enables a
+        data-driven and analytical approach to problem-solving.
+        """);
+    }
+}
+```
 
