@@ -3,7 +3,7 @@
 ```java
 public class DeveloperProfile {
 
-    private final String name = "Your Name";
+    private final String name = "KnuLL";
     private final String degree = "B.Tech in Computer Science (AI & ML)";
     private final String focus = "Backend Development | Full Stack | Machine Learning";
 
